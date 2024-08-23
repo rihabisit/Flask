@@ -21,7 +21,7 @@ brotlipy==0.7.0
 cachetools==5.3.1
 
 cloudscraper==1.2.71
-clyent==1.2.2
+
 
 conda-repo-cli==1.0.41
 conda-verify==3.4.2
