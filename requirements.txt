@@ -149,7 +149,6 @@ soxr==0.3.7
 
 streamlit==1.27.2
 
-TBB==0.2
 
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
