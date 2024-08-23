@@ -2,8 +2,7 @@ absl-py==2.1.0
 
 altair==5.1.2
 
-anaconda-client==1.12.0
-anaconda-navigator==2.4.2
+
 
 anyascii==0.3.2
 
