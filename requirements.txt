@@ -77,7 +77,6 @@ librosa==0.10.1
 
 
 
-mkl-service==2.4.0
 ml-dtypes==0.2.0
 mlxtend==0.23.0
 
