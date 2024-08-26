@@ -4,7 +4,7 @@ altair==5.1.2
 
 
 Flask== 2.2.2
-
+flask-cors== 4.0.1
 
 anyascii==0.3.2
 
